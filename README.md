@@ -6,6 +6,17 @@ This repository organizes LeetCode problems by algorithmic techniques, making it
 
 ## 📚 Categories
 
+### 🧪 Code Engine Interview  
+Các bài toán phổ biến được hỏi trong vòng phỏng vấn coding (code engine / coding test). Tập trung vào tư duy thuật toán và kỹ năng triển khai nhanh chóng, chính xác.
+
+| Problem Name                                         | Link |
+|------------------------------------------------------|------|
+| Valid Anagram                                        | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) |
+| Valid Parentheses                                    | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+| Smallest Number by Rearranging Digits of a Number    | [GFG: Smallest Number](https://www.geeksforgeeks.org/smallest-number-rearranging-digits-given-number/) |
+
+---
+
 ### 🔁 Backtracking  
 These problems involve exploring all possible combinations or paths using recursion and decision trees.
 
@@ -33,20 +44,10 @@ DP problems involve solving subproblems and storing their results to build up so
 
 | Problem Name                         | Link |
 |--------------------------------------|------|
+| 0/1 Knapsack Problem                 | [🎥 YouTube Explanation](https://www.youtube.com/watch?v=cJ21moQpofY) |
 | Coin Change                          | [322. Coin Change](https://leetcode.com/problems/coin-change) |
 | Best Time to Buy and Sell Stock      | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |
 | Best Time to Buy and Sell Stock II   | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |
-
----
-
-### 🧪 Code Engine Interview  
-Các bài toán phổ biến được hỏi trong vòng phỏng vấn coding (code engine / coding test). Tập trung vào tư duy thuật toán và kỹ năng triển khai nhanh chóng, chính xác.
-
-| Problem Name                                         | Link |
-|------------------------------------------------------|------|
-| Valid Anagram                                        | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) |
-| Valid Parentheses                                    | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
-| Smallest Number by Rearranging Digits of a Number    | [GFG: Smallest Number](https://www.geeksforgeeks.org/smallest-number-rearranging-digits-given-number/) |
 
 ---
 
