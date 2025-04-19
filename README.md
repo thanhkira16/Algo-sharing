@@ -6,7 +6,7 @@ This repository organizes LeetCode problems by algorithmic techniques, making it
 
 ## 📚 Categories
 
-### 🔁 Backtracking
+### 🔁 Backtracking  
 These problems involve exploring all possible combinations or paths using recursion and decision trees.
 
 | Problem Name           | Link |
@@ -17,7 +17,7 @@ These problems involve exploring all possible combinations or paths using recurs
 
 ---
 
-### 💡 Greedy
+### 💡 Greedy  
 Greedy algorithms make the optimal choice at each step hoping for a global optimum.
 
 | Problem Name                         | Link |
@@ -28,7 +28,7 @@ Greedy algorithms make the optimal choice at each step hoping for a global optim
 
 ---
 
-### 🧠 Dynamic Programming
+### 🧠 Dynamic Programming  
 DP problems involve solving subproblems and storing their results to build up solutions to larger problems.
 
 | Problem Name                         | Link |
@@ -36,6 +36,17 @@ DP problems involve solving subproblems and storing their results to build up so
 | Coin Change                          | [322. Coin Change](https://leetcode.com/problems/coin-change) |
 | Best Time to Buy and Sell Stock      | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |
 | Best Time to Buy and Sell Stock II   | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |
+
+---
+
+### 🧪 Code Engine Interview  
+Các bài toán phổ biến được hỏi trong vòng phỏng vấn coding (code engine / coding test). Tập trung vào tư duy thuật toán và kỹ năng triển khai nhanh chóng, chính xác.
+
+| Problem Name                                         | Link |
+|------------------------------------------------------|------|
+| Valid Anagram                                        | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) |
+| Valid Parentheses                                    | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
+| Smallest Number by Rearranging Digits of a Number    | [GFG: Smallest Number](https://www.geeksforgeeks.org/smallest-number-rearranging-digits-given-number/) |
 
 ---
 
@@ -49,6 +60,7 @@ This collection helps learners:
 ---
 
 ## 📌 Note
+
 Some problems may appear under multiple categories (e.g., Greedy and DP), depending on the solution approach.
 
 Happy coding! 🎉
