@@ -7,7 +7,7 @@ This repository organizes LeetCode problems by algorithmic techniques, making it
 ## 📚 Categories
 
 ### 🧪 Code Engine Interview  
-Các bài toán phổ biến được hỏi trong vòng phỏng vấn coding (code engine / coding test). Tập trung vào tư duy thuật toán và kỹ năng triển khai nhanh chóng, chính xác.
+These are common problems asked in coding interviews (code engine / coding test). Focuses on algorithmic thinking and the ability to implement solutions quickly and accurately.
 
 | Problem Name                                         | Link |
 |------------------------------------------------------|------|
