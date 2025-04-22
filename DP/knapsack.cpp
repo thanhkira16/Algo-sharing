@@ -1,8 +1,17 @@
 #include <iostream>
 #include <vector>
-#include <algorithm> // for std::max
+#include <algorithm>
 
 void knapsack(int n, int M, std::vector<int>& profits, std::vector<int>& weights) {
+    // In ra danh sách vật thể
+    std::cout << "Danh sách vật thể:\n";
+    for (int i = 0; i < n; ++i) {
+        std::cout << "Vật thể " << i + 1 
+                  << ": Lợi nhuận = " << profits[i] 
+                  << ", Trọng lượng = " << weights[i] 
+                  << std::endl;
+    }
+
     std::vector<std::vector<int>> dp(n + 1, std::vector<int>(M + 1, 0));
 
     for (int i = 1; i <= n; ++i) {
@@ -15,7 +24,7 @@ void knapsack(int n, int M, std::vector<int>& profits, std::vector<int>& weights
         }
     }
 
-    std::cout << dp[n][M] << std::endl;
+    std::cout << "\nTổng lợi nhuận tối đa có thể đạt được: " << dp[n][M] << std::endl;
 }
 
 int main() {
